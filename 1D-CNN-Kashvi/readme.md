@@ -222,5 +222,5 @@ The implementation was carried out using:
 
 ```
 
-**One small thing:** for your actual report, I'd call this **“MFCC-based 1D CNN”** throughout. That's more accurate than simply saying “1D CNN,” because MFCC extraction is a major part of your methodology.
+**One small thing:** for our actual report, call this **“MFCC-based 1D CNN”** throughout. That's more accurate than simply saying “1D CNN,” because MFCC extraction is a major part of your methodology.
 ```
